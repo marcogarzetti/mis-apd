@@ -32,3 +32,6 @@ mac/build/
 *.exe
 *.out
 *.app
+/.vs
+/win/vs2019/.vs/MisEfx
+/win/vs2019/Win32/Release
