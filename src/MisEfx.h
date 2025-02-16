@@ -23,7 +23,7 @@ public:
 
 	// Processing
 	virtual void processReplacing(float** inputs, float** outputs, VstInt32 sampleFrames) override;
-
+	int getSamplerate();
 
 };
 
