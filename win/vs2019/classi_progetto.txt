@@ -1,0 +1,4 @@
+MisEfx.cpp --> classe plugin
+MisEfx.h --> definizione classe plugin
+audioeffect.cpp --> classe sdk
+audioeffect.h --> definizione classe sdk

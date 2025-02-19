@@ -23,6 +23,18 @@
     <ClCompile Include="..\..\vstsdk2.4\public.sdk\source\vst2.x\audioeffect.cpp" />
     <ClCompile Include="..\..\vstsdk2.4\public.sdk\source\vst2.x\audioeffectx.cpp" />
     <ClCompile Include="..\..\vstsdk2.4\public.sdk\source\vst2.x\vstplugmain.cpp" />
+    <ClCompile Include="MisEfxUtils.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="classi_progetto.txt" />
+    <Text Include="definizione_parametro.txt" />
+    <Text Include="pointers.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="note.doc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MisEfxUtils.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{132A270C-2AB5-4F0A-867C-25008E1CF457}</ProjectGuid>
